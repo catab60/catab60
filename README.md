@@ -2,8 +2,8 @@
 a Python software developer from Romania!🇷🇴
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=catab60&theme=transparent&hide_border=false" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catab60&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="190" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=catab60&theme=transparent&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catab60&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" />
 </div>
 
 
