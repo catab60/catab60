@@ -50,3 +50,9 @@ a Python software developer from Romania!🇷🇴
   </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/catab60/catab60/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/catab60/catab60/blob/output/github-snake.svg">
+  <img src="https://github.com/catab60/catab60/blob/output/github-snake.svg" alt="Snake GIF">
+</picture>
+
