@@ -42,7 +42,7 @@ a Python software developer from Romania!🇷🇴
   <a href="https://instagram.com/_.cata.b">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/catalin-branc-a59852316">
+  <a href="https://www.linkedin.com/in/catalin-branc-a59852316/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:catalinbranc60@gmail.com">
