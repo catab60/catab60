@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/catab60/catab60/blob/main/Banner.gif?raw=true" alt="Banner :)" />
+</p>
+
 # Hello World! I'm Cata,
 a Python software developer from Romania!🇷🇴
 
